@@ -18,7 +18,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- grok4 Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 👨‍💻 Expert
