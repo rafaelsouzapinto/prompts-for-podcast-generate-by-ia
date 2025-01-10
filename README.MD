@@ -10,16 +10,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Grok4](https://x.ai)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Veed](https://www.veed.io/pt-BR/ferramentas/editor-de-audio)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Grok4 Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Veed para tratar aúdio e adicionar sons de fundo
 
 ## 👨‍💻 Expert
 
